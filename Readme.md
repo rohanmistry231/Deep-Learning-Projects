@@ -1,4 +1,4 @@
-# 🧠 DL Projects
+# 🧠 Deep Learning Projects
 
 Welcome to the **Deep Learning Projects** repository! 🚀🔬 This repository contains various deep learning projects, covering areas such as computer vision, natural language processing, and generative models. Each project showcases different neural network architectures and deep learning techniques. 💡
 
